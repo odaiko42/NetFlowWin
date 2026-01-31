@@ -1,0 +1,12 @@
+# NetFlowWin Release - Allow all files
+# This is a distribution folder, all binaries should be tracked
+
+# Only ignore local development files
+*.log
+logs/
+*.db
+*.sqlite
+
+# Ignore user-specific files
+*.user
+*.suo
