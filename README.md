@@ -5,7 +5,8 @@ A powerful Windows application for monitoring network connections, registry chan
 **Version:** 1.0  
 **Author:** Emmanuel Forgues  
 **License:** MIT  
-**Year:** 2026
+**Year:** 2026  
+**GitHub:** https://github.com/odaiko42/NetFlowWin
 
 ---
 
@@ -266,7 +267,9 @@ NetFlowWin.Core        - Business logic (Services, Models)
 
 ## Support
 
-For issues, feature requests, or contributions, please visit the project repository.
+For issues, feature requests, or contributions, please visit the project repository:
+
+https://github.com/odaiko42/NetFlowWin
 
 ---
 
